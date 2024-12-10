@@ -14,7 +14,7 @@ conda activate dream-analysis-env
 make download
 ```
 
-3. Execute symmetry analysis and output a csv format result in `results/anslysis` folder
+3. Execute symmetry analysis and output a csv format result in `results/analysis` folder
 ```bash
 make analysis
 ```

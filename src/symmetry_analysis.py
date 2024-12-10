@@ -25,7 +25,7 @@ def symmetry_analysis(dataset_root_path, skeleton_keys, output_path):
 
 if __name__ == '__main__':
     symmetry_analysis(
-        dataset_root_path='../dataset',
+        dataset_root_path='dataset',
         skeleton_keys=['elbow_left', 'elbow_right', 'hand_left', 'hand_right', 'head', 'sholder_center', 'sholder_left', 'sholder_right', 'wrist_left', 'wrist_right'],
-        output_path='../results/analysis/symmetry_analysis.csv'
+        output_path='results/analysis/symmetry_analysis.csv'
     )

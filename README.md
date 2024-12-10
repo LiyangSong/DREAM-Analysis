@@ -6,7 +6,7 @@
 1. Set up the environment
 ```bash
 conda env create -f environment.yml
-conda activate $(CONDA_ENV_NAME)
+conda activate dream-analysis-env
 ```
 
 2. Download the raw dataset using `Make` command

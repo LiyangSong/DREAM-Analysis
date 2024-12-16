@@ -274,7 +274,7 @@ def plot_symmetry_distribution(diff_body_upper_arm_array, diff_upper_lower_arm_a
 
 
 def prepare_data_for_symmetry_analysis(dataset_root_path, skeleton_keys, distribution_visualize):
-    users = [user for user in sorted(os.listdir(dataset_root_path)) if user != '.DS_Store']
+    users = [user for user in sorted(os.listdir(dataset_root_path)) if user.startswith('User ')]
 
     user_list = []
     session_list = []
@@ -432,7 +432,7 @@ def plot_symmetry_vs_ados(df, plt):
 
 
 def extract_user_metadata(dataset_root_path):
-    users = [user for user in sorted(os.listdir(dataset_root_path)) if user != '.DS_Store']
+    users = [user for user in sorted(os.listdir(dataset_root_path)) if user.startswith('User ')]
     user_data_list = []
 
     for user in users:

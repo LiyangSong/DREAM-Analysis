@@ -87,14 +87,14 @@ make visualization
 
 The dataset includes variables related to specific tasks, such as **imitation**, **joint attention**, and **turn-taking**. These tasks assess the child's ability to mimic the robot’s actions, follow visual cues, and interact reciprocally in structured scenarios.
 
-##### Imitation
+#### Imitation
 
 This task evaluates how accurately a child can mimic the robot's movements, emotional expressions, and sounds. Interactive imitation games are conducted to teach motor behaviors and improve imitation skills. The robot provides verbal instructions for the child to replicate its actions, with the imitation tasks organized by various levels of difficulty:
 - **Level 1 (Imitation with Objects)**: The child imitates actions involving objects, such as moving a toy car or pretending to drink from a cup.
 - **Level 2 (Imitation of Gestures)**: The child imitates meaningful movements, such as waving and saying "bye-bye."
 - **Level 3 (Imitation of Non-meaningful Movements)**: The child imitates abstract movements without an inherent meaning.
 
-##### Joint Attention
+#### Joint Attention
 
 This task captures behaviors such as gaze direction, gestures, and verbalizations aimed at directing shared attention to specific objects.
 
@@ -103,7 +103,7 @@ The task begins with a brief explanation provided to the child, such as: “Now 
 - **Level 2**: The robot omits verbal cues and only uses gestural and gaze actions to direct the child’s attention.
 - **Level 3**: The robot relies solely on gaze cues, omitting both verbal and gestural actions.
 
-##### Turn-taking
+#### Turn-taking
 
 This task involves tracking the child’s responses, including contingent utterances, emotional expressions, and rational or maladaptive behaviors during interactions with the robot. The child and robot take turns in a series of structured activities presented on a touch-screen tablet (Sandtray). These activities include sharing information, categorizing items, and continuing repeating patterns. Each sub-task begins with an instruction or question from the robot, followed by the child’s response and the robot’s feedback based on the behavior.
 

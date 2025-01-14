@@ -8,9 +8,11 @@ The dataset contains behavioral data from over 3,000 therapy sessions involving 
 
 This dataset is particularly valuable for studying child-robot interactions, focusing on how children with ASD respond differently to robots compared to human partners. By analyzing these behaviors, researchers can fine-tune robotic interventions for enhanced therapeutic outcomes.
 
-![image-20241119192331336](/Users/liyang/Library/Application Support/typora-user-images/image-20241119192331336.png)
+![image-20241015203028722.png](/img/image-20241015203028722.png)
 
-![image-20241119191305598](/Users/liyang/Library/Application Support/typora-user-images/image-20241119191305598.png)
+![image-20241119192331336.png](/img/image-20241119192331336.png)
+
+![image-20241119191305598.png](/img/image-20241119191305598.png)
 
 ## Data Structure
 
